@@ -1,14 +1,29 @@
 {
   "posts": [
   {
-    "FNN": [
+   "FNN":[
       {
-        "ID": "02925176391",
-        "Status": "Acknowledged",
-        "ExternalRefId": "BK0184641"
+         "ID":"0353435200",
+         "Status":"Open",
+         "ExternalRefID:"SIIAM049722960"
+      },
+      {
+         "ID":"0297447377",
+         "Status":"Open",
+         "ExternalRefID:"SIIAM049722960"
+      },
+      {
+         "ID":"0749588209",
+         "Status":"Open",
+         "ExternalRefID:"SIIAM049722960"
+      },
+      {
+         "ID":"0266622632",
+         "Status":"Open",
+         "ExternalRefID:"SIIAM049722960"
       }
-    ]
-  }
+   ]
+}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
